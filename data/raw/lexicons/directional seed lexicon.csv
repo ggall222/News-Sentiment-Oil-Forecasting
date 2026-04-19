@@ -1,0 +1,144 @@
+phrase,polarity,category,weight,keep_for_seed
+supply disruption,1,supply,3,1
+unexpected supply disruption,1,supply,3,1
+production outage,1,supply,3,1
+refinery outage,1,refining,3,1
+pipeline shutdown,1,infrastructure,3,1
+pipeline disruption,1,infrastructure,3,1
+export disruption,1,supply,3,1
+shipping disruption,1,shipping,2.5,1
+port closure,1,shipping,2.5,1
+terminal shutdown,1,infrastructure,2.5,1
+force majeure declared,1,supply,3,1
+output halt,1,supply,3,1
+production halt,1,supply,3,1
+supply shortage,1,supply,3,1
+tight supply,1,supply,2.5,1
+tightening supply,1,supply,2.5,1
+declining production,1,supply,2.5,1
+falling production,1,supply,2.5,1
+production decline,1,supply,2.5,1
+inventory draw,1,inventory,2.5,1
+unexpected inventory draw,1,inventory,3,1
+large inventory draw,1,inventory,3,1
+stock drawdown,1,inventory,2.5,1
+crude stock draw,1,inventory,2.5,1
+distillate draw,1,inventory,2,1
+gasoline draw,1,inventory,2,1
+stockpile draw,1,inventory,2.5,1
+inventory depletion,1,inventory,2.5,1
+declining inventories,1,inventory,2,1
+falling inventories,1,inventory,2,1
+tight inventories,1,inventory,2,1
+opec production cut,1,opec,3,1
+opec output cut,1,opec,3,1
+opec supply cut,1,opec,3,1
+opec quota cut,1,opec,3,1
+opec voluntary cut,1,opec,3,1
+opec+ cuts,1,opec,3,1
+opec supply reduction,1,opec,3,1
+coordinated production cuts,1,opec,3,1
+deep production cuts,1,opec,3,1
+unexpected production cuts,1,opec,3,1
+saudi supply cut,1,opec,3,1
+saudi output cut,1,opec,3,1
+saudi voluntary cuts,1,opec,3,1
+export cuts announced,1,supply,3,1
+refinery shutdown,1,refining,3,1
+refinery fire,1,refining,3,1
+refinery accident,1,refining,3,1
+refinery maintenance outage,1,refining,2.5,1
+refinery disruption,1,refining,2.5,1
+processing outage,1,refining,2.5,1
+pipeline attack,1,geopolitical,3,1
+oil facility attack,1,geopolitical,3,1
+drone strike on oil facility,1,geopolitical,3,1
+sanctions on oil exports,1,geopolitical,3,1
+oil export sanctions,1,geopolitical,3,1
+sanctions tighten supply,1,geopolitical,3,1
+export ban imposed,1,geopolitical,3,1
+oil embargo announced,1,geopolitical,3,1
+shipping sanctions,1,geopolitical,2.5,1
+strait of hormuz tensions,1,geopolitical,3,1
+gulf supply risks,1,geopolitical,3,1
+middle east tensions rise,1,geopolitical,3,1
+oil infrastructure damage,1,geopolitical,3,1
+pipeline sabotage,1,geopolitical,3,1
+energy infrastructure attack,1,geopolitical,3,1
+demand surge,1,demand,2,1
+strong demand outlook,1,demand,2,1
+fuel demand recovery,1,demand,2,1
+travel demand surge,1,demand,2,1
+jet fuel demand rise,1,demand,2,1
+gasoline demand rebound,1,demand,2,1
+economic recovery boosts demand,1,macro,2,1
+industrial demand recovery,1,demand,2,1
+refining margins surge,1,refining,2,1
+crack spread widening,1,refining,2,1
+oil rally,1,market,1.5,1
+oil price surge,1,market,1.5,1
+oil price spike,1,market,1.5,1
+oil prices climb,1,market,1.5,1
+oil prices jump,1,market,1.5,1
+oil prices rebound,1,market,1.5,1
+bullish oil outlook,1,market,1.5,1
+oil gains momentum,1,market,1.5,1
+oil prices strengthen,1,market,1.5,1
+inventory build,-1,inventory,2.5,1
+unexpected inventory build,-1,inventory,3,1
+large inventory build,-1,inventory,3,1
+crude stock build,-1,inventory,2.5,1
+gasoline stock build,-1,inventory,2,1
+distillate build,-1,inventory,2,1
+stockpile increase,-1,inventory,2.5,1
+rising inventories,-1,inventory,2,1
+surging inventories,-1,inventory,2,1
+inventory glut,-1,inventory,2.5,1
+supply glut,-1,supply,3,1
+oil glut fears,-1,supply,3,1
+oversupply concerns,-1,supply,3,1
+global oversupply,-1,supply,3,1
+production surge,-1,supply,2.5,1
+production increase,-1,supply,2.5,1
+rising production,-1,supply,2.5,1
+output expansion,-1,supply,2.5,1
+output ramp-up,-1,supply,2.5,1
+production ramp-up,-1,supply,2.5,1
+record production,-1,supply,2.5,1
+opec production increase,-1,opec,3,1
+opec output increase,-1,opec,3,1
+opec pumps more oil,-1,opec,3,1
+opec boosts output,-1,opec,3,1
+opec raises quotas,-1,opec,3,1
+saudi increases production,-1,opec,3,1
+supply expansion,-1,supply,2.5,1
+pipeline restart,-1,infrastructure,2,1
+pipeline reopens,-1,infrastructure,2,1
+refinery restart,-1,refining,2,1
+refinery resumes operations,-1,refining,2,1
+production resumes,-1,supply,2,1
+export flows resume,-1,supply,2,1
+supply recovery,-1,supply,2,1
+supply returns to market,-1,supply,2,1
+demand slowdown,-1,demand,2,1
+weak fuel demand,-1,demand,2,1
+demand destruction,-1,demand,2.5,1
+demand collapse,-1,demand,3,1
+economic slowdown,-1,macro,2,1
+recession fears,-1,macro,2,1
+industrial slowdown,-1,demand,2,1
+manufacturing slowdown,-1,macro,2,1
+travel demand weakens,-1,demand,2,1
+jet fuel demand weakens,-1,demand,2,1
+gasoline demand drops,-1,demand,2,1
+crack spread narrowing,-1,refining,2,1
+refining margins fall,-1,refining,2,1
+oil selloff,-1,market,1.5,1
+oil prices plunge,-1,market,1.5,1
+oil prices slump,-1,market,1.5,1
+oil prices fall,-1,market,1.5,1
+oil prices decline,-1,market,1.5,1
+oil prices slide,-1,market,1.5,1
+oil prices retreat,-1,market,1.5,1
+bearish oil outlook,-1,market,1.5,1
+oil market weakness,-1,market,1.5,1

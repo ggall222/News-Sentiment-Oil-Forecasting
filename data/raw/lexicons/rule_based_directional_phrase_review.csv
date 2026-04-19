@@ -1,0 +1,90 @@
+phrase,label,suggested_topic,suggested_field,review_status,approved_topic,approved_field,notes,dominant_topics,log_odds,bullish_count,bearish_count,total_count,bullish_share,bearish_share,in_latest_run
+production cuts,bullish,opec_cut,fixed_phrases,approved,opec_cut,fixed_phrases,,"opec_cut,inventory_build,demand_strength",1.184588,63,9,72,0.03467,0.010604,True
+oil demand growth,bullish,demand_strength,fixed_phrases,approved,demand_strength,fixed_phrases,,"demand_strength,opec_cut,opec_output_increase",1.779295,57,4,61,0.031419,0.005302,True
+output cuts,bullish,opec_cut,fixed_phrases,approved,opec_cut,fixed_phrases,,"opec_cut,demand_weakness,demand_strength",1.543864,54,5,59,0.029794,0.006363,True
+production cut,bullish,opec_cut,fixed_phrases,approved,opec_cut,fixed_phrases,,"opec_cut,inventory_build,supply_disruption",1.200092,38,5,43,0.021127,0.006363,True
+oil prices rise,bullish,inventory_build,fixed_phrases,approved,inventory_build,fixed_phrases,,"inventory_build,geopolitical_risk,demand_strength",0.456755,33,10,43,0.018418,0.011665,True
+rate hikes,bearish,macro_financial,fixed_phrases,approved,macro_financial,fixed_phrases,,"macro_financial,inventory_build,demand_weakness",-1.739551,10,31,41,0.005959,0.033934,True
+oil sanctions,bullish,geopolitical_risk,fixed_phrases,approved,geopolitical_risk,fixed_phrases,,"geopolitical_risk,opec_cut,supply_recovery",3.041862,40,0,40,0.02221,0.00106,True
+inflation rate,bearish,inventory_build,fixed_phrases,approved,inventory_build,fixed_phrases,,"inventory_build,inventory_draw,demand_strength",-0.916833,17,22,39,0.009751,0.02439,True
+crude inventory build,bearish,inventory_build,fixed_phrases,approved,inventory_build,fixed_phrases,,"inventory_build,inventory_draw",-4.36059,0,39,39,0.000542,0.042418,True
+crude inventory draw,bullish,inventory_draw,fixed_phrases,approved,inventory_draw,fixed_phrases,,"inventory_draw,inventory_build",2.939208,36,0,36,0.020043,0.00106,True
+oil rises,bullish,inventory_draw,fixed_phrases,approved,inventory_draw,fixed_phrases,,"inventory_draw,demand_strength,inventory_build",0.581053,27,7,34,0.015168,0.008484,True
+annual inflation rate,bearish,inventory_build,fixed_phrases,approved,inventory_build,fixed_phrases,,"inventory_build,inventory_draw,demand_strength",-1.231326,11,20,31,0.006501,0.022269,True
+oil prices fall,bearish,inventory_draw,fixed_phrases,approved,inventory_draw,fixed_phrases,,"inventory_draw,demand_weakness,inventory_build",-1.318337,10,20,30,0.005959,0.022269,True
+oil production cuts,bullish,opec_cut,fixed_phrases,approved,opec_cut,fixed_phrases,,"opec_cut,opec_output_increase,inventory_build",1.967347,27,1,28,0.015168,0.002121,True
+sanctions russia,bullish,geopolitical_risk,fixed_phrases,approved,geopolitical_risk,fixed_phrases,,"geopolitical_risk,inventory_draw,inventory_build",2.660494,27,0,27,0.015168,0.00106,True
+oil falls,bearish,inventory_build,fixed_phrases,approved,inventory_build,fixed_phrases,,"inventory_build,inventory_draw,macro_financial",-1.107028,10,16,26,0.005959,0.018028,True
+oil output cuts,bullish,opec_cut,fixed_phrases,approved,opec_cut,fixed_phrases,,"opec_cut,demand_strength,demand_weakness",1.033038,21,3,24,0.011918,0.004242,True
+oil demand recovery,bullish,demand_strength,fixed_phrases,approved,demand_strength,fixed_phrases,,demand_strength,2.506344,23,0,23,0.013001,0.00106,True
+cuts oil,bullish,opec_cut,fixed_phrases,approved,opec_cut,fixed_phrases,,"opec_cut,demand_strength,geopolitical_risk",2.463784,22,0,22,0.012459,0.00106,True
+cut production,bullish,opec_cut,fixed_phrases,approved,opec_cut,fixed_phrases,,"opec_cut,geopolitical_risk,demand_strength",0.426902,17,5,22,0.009751,0.006363,True
+output cut,bullish,opec_cut,fixed_phrases,approved,opec_cut,fixed_phrases,,"opec_cut,supply_recovery,inventory_draw",2.419332,21,0,21,0.011918,0.00106,True
+cut oil,bullish,opec_cut,fixed_phrases,approved,opec_cut,fixed_phrases,,"opec_cut,inventory_draw,opec_output_increase",1.22541,19,2,21,0.010834,0.003181,True
+opec cut,bullish,opec_cut,fixed_phrases,approved,opec_cut,fixed_phrases,,"opec_cut,inventory_build,inventory_draw",1.174117,18,2,20,0.010293,0.003181,True
+increase oil,bearish,opec_output_increase,fixed_phrases,approved,opec_output_increase,fixed_phrases,,"opec_output_increase,demand_strength,supply_disruption",-0.854032,9,11,20,0.005417,0.012725,True
+rise oil,bullish,geopolitical_risk,fixed_phrases,approved,geopolitical_risk,fixed_phrases,,"geopolitical_risk,inventory_build,opec_cut",1.062891,16,2,18,0.009209,0.003181,True
+cut rates,bearish,inventory_build,fixed_phrases,approved,inventory_build,fixed_phrases,,"inventory_build,macro_financial,inventory_draw",-0.266245,11,7,18,0.006501,0.008484,True
+boost oil,bearish,opec_output_increase,fixed_phrases,approved,opec_output_increase,fixed_phrases,,"opec_output_increase,demand_strength,opec_cut",-1.077175,7,11,18,0.004334,0.012725,True
+fed cut,bearish,inventory_build,fixed_phrases,approved,inventory_build,fixed_phrases,,"inventory_build,inventory_draw,macro_financial",-0.132714,11,6,17,0.006501,0.007423,True
+draw crude,bullish,inventory_draw,fixed_phrases,approved,inventory_draw,fixed_phrases,,"inventory_draw,opec_cut,inventory_build",1.343193,14,1,15,0.008126,0.002121,True
+cut interest rates,bearish,inventory_build,fixed_phrases,approved,inventory_build,fixed_phrases,,"inventory_build,inventory_draw,demand_strength",-0.315035,9,6,15,0.005417,0.007423,True
+russia sanctions,bullish,geopolitical_risk,fixed_phrases,approved,geopolitical_risk,fixed_phrases,,"geopolitical_risk,supply_disruption,inventory_draw",1.967347,13,0,13,0.007584,0.00106,True
+sanctions iran,bullish,geopolitical_risk,fixed_phrases,approved,geopolitical_risk,fixed_phrases,,"geopolitical_risk,inventory_draw,inventory_build",1.200092,12,1,13,0.007042,0.002121,True
+oil cuts,bullish,opec_cut,fixed_phrases,approved,opec_cut,fixed_phrases,,"opec_cut,inventory_build,demand_strength",1.120049,11,1,12,0.006501,0.002121,True
+supply cuts,bullish,opec_cut,fixed_phrases,approved,opec_cut,fixed_phrases,,"opec_cut,inventory_draw,geopolitical_risk",1.120049,11,1,12,0.006501,0.002121,True
+rise oil prices,bullish,inventory_build,fixed_phrases,approved,inventory_build,fixed_phrases,,"inventory_build,opec_cut,geopolitical_risk",0.627573,10,2,12,0.005959,0.003181,True
+build crude,bearish,inventory_build,fixed_phrases,approved,inventory_build,fixed_phrases,,"inventory_build,demand_strength,demand_weakness",-1.970993,2,10,12,0.001625,0.011665,True
+opec output cuts,bullish,opec_cut,fixed_phrases,approved,opec_cut,fixed_phrases,,"opec_cut,demand_weakness",1.813197,11,0,11,0.006501,0.00106,True
+saudi arabia cuts,bullish,opec_cut,fixed_phrases,approved,opec_cut,fixed_phrases,,opec_cut,1.813197,11,0,11,0.006501,0.00106,True
+russia ukraine conflict,bullish,geopolitical_risk,fixed_phrases,approved,geopolitical_risk,fixed_phrases,,"geopolitical_risk,inventory_build,inventory_draw",0.532263,9,2,11,0.005417,0.003181,True
+price inflation rate,bearish,inventory_build,fixed_phrases,approved,inventory_build,fixed_phrases,,"inventory_build,inventory_draw,demand_strength",-1.141714,4,7,11,0.002709,0.008484,True
+oil prices drop,bearish,inventory_build,fixed_phrases,approved,inventory_build,fixed_phrases,,"inventory_build,inventory_draw,geopolitical_risk",-1.48264,3,8,11,0.002167,0.009544,True
+raise oil,bearish,opec_output_increase,fixed_phrases,approved,opec_output_increase,fixed_phrases,,"opec_output_increase,inventory_draw,opec_cut",-2.376458,1,10,11,0.001083,0.011665,True
+draw crude inventories,bullish,inventory_draw,fixed_phrases,approved,inventory_draw,fixed_phrases,,"inventory_draw,opec_cut,inventory_build",0.937728,9,1,10,0.005417,0.002121,True
+sanctions russian oil,bullish,geopolitical_risk,fixed_phrases,approved,geopolitical_risk,fixed_phrases,,"geopolitical_risk,supply_disruption,inventory_draw",0.937728,9,1,10,0.005417,0.002121,True
+crude oil rises,bearish,inventory_build,fixed_phrases,approved,inventory_build,fixed_phrases,,"inventory_build,demand_strength,inventory_draw",-0.67171,5,5,10,0.00325,0.006363,True
+drop oil,bearish,demand_weakness,fixed_phrases,approved,demand_weakness,fixed_phrases,,"demand_weakness,demand_strength,inventory_draw",-1.008182,4,6,10,0.002709,0.007423,True
+cut oil production,bullish,opec_cut,fixed_phrases,approved,opec_cut,fixed_phrases,,"opec_cut,inventory_draw,macro_financial",0.832367,8,1,9,0.004875,0.002121,True
+oil prices surge,bullish,geopolitical_risk,fixed_phrases,approved,geopolitical_risk,fixed_phrases,,"geopolitical_risk,demand_strength,opec_cut",0.832367,8,1,9,0.004875,0.002121,True
+opec production cuts,bullish,opec_cut,fixed_phrases,approved,opec_cut,fixed_phrases,,"opec_cut,demand_weakness,geopolitical_risk",0.832367,8,1,9,0.004875,0.002121,True
+interest rate hikes,bearish,macro_financial,fixed_phrases,approved,macro_financial,fixed_phrases,,"macro_financial,inventory_build,geopolitical_risk",-1.652539,2,7,9,0.001625,0.008484,True
+fed rate hikes,bearish,macro_financial,fixed_phrases,approved,macro_financial,fixed_phrases,,"macro_financial,inventory_build,demand_weakness",-2.974295,0,9,9,0.000542,0.010604,True
+inflation rate confirmed,bearish,inventory_build,fixed_phrases,approved,inventory_build,fixed_phrases,,"inventory_build,inventory_draw,demand_weakness",-2.974295,0,9,9,0.000542,0.010604,True
+attack saudi,bullish,geopolitical_risk,fixed_phrases,approved,geopolitical_risk,fixed_phrases,,"geopolitical_risk,supply_disruption,supply_recovery",1.525514,8,0,8,0.004875,0.00106,True
+large crude draw,bullish,inventory_draw,fixed_phrases,approved,inventory_draw,fixed_phrases,,inventory_draw,1.525514,8,0,8,0.004875,0.00106,True
+russia ukraine war,bullish,geopolitical_risk,fixed_phrases,approved,geopolitical_risk,fixed_phrases,,"geopolitical_risk,demand_strength,opec_output_increase",0.714584,7,1,8,0.004334,0.002121,True
+surge oil,bullish,geopolitical_risk,fixed_phrases,approved,geopolitical_risk,fixed_phrases,,"geopolitical_risk,demand_strength,opec_cut",0.175588,6,2,8,0.003792,0.003181,True
+boosts oil,bearish,opec_output_increase,fixed_phrases,approved,opec_output_increase,fixed_phrases,,"opec_output_increase,geopolitical_risk,opec_cut",-0.266245,5,3,8,0.00325,0.004242,True
+fed cut rates,bearish,inventory_build,fixed_phrases,approved,inventory_build,fixed_phrases,,"inventory_build,inventory_draw,demand_weakness",-0.266245,5,3,8,0.00325,0.004242,True
+oil drops,bearish,inventory_draw,fixed_phrases,approved,inventory_draw,fixed_phrases,,"inventory_draw,inventory_build,geopolitical_risk",-0.266245,5,3,8,0.00325,0.004242,True
+rise crude,bearish,inventory_build,fixed_phrases,approved,inventory_build,fixed_phrases,,"inventory_build,demand_strength,inventory_draw",-0.266245,5,3,8,0.00325,0.004242,True
+increase crude,bearish,inventory_build,fixed_phrases,approved,inventory_build,fixed_phrases,,"inventory_build,demand_strength,demand_weakness",-1.519008,2,6,8,0.001625,0.007423,True
+build crude inventories,bearish,inventory_build,fixed_phrases,approved,inventory_build,fixed_phrases,,"inventory_build,demand_strength,demand_weakness",-2.058004,1,7,8,0.001083,0.008484,True
+raises oil,bearish,opec_output_increase,fixed_phrases,approved,opec_output_increase,fixed_phrases,,"opec_output_increase,demand_strength,opec_cut",-2.058004,1,7,8,0.001083,0.008484,True
+arabia cuts oil,bullish,opec_cut,fixed_phrases,approved,opec_cut,fixed_phrases,,opec_cut,1.407731,7,0,7,0.004334,0.00106,True
+attack oil,bullish,geopolitical_risk,fixed_phrases,approved,geopolitical_risk,fixed_phrases,,"geopolitical_risk,supply_disruption,supply_recovery",1.407731,7,0,7,0.004334,0.00106,True
+cuts oil demand,bullish,demand_strength,fixed_phrases,approved,demand_strength,fixed_phrases,,"demand_strength,opec_cut,inventory_draw",1.407731,7,0,7,0.004334,0.00106,True
+cuts oil prices,bullish,opec_cut,fixed_phrases,approved,opec_cut,fixed_phrases,,opec_cut,1.407731,7,0,7,0.004334,0.00106,True
+sanctions against russia,bullish,geopolitical_risk,fixed_phrases,approved,geopolitical_risk,fixed_phrases,,"geopolitical_risk,inventory_build,inventory_draw",1.407731,7,0,7,0.004334,0.00106,True
+barrels consensus draw,bullish,inventory_draw,fixed_phrases,approved,inventory_draw,fixed_phrases,,"inventory_draw,inventory_build,demand_weakness",0.581053,6,1,7,0.003792,0.002121,True
+russia war,bullish,geopolitical_risk,fixed_phrases,approved,geopolitical_risk,fixed_phrases,,"geopolitical_risk,supply_disruption,demand_weakness",0.581053,6,1,7,0.003792,0.002121,True
+boost oil prices,bearish,opec_output_increase,fixed_phrases,approved,opec_output_increase,fixed_phrases,,"opec_output_increase,opec_cut,demand_strength",-0.448567,4,3,7,0.002709,0.004242,True
+inflation rate increased,bearish,inventory_build,fixed_phrases,approved,inventory_build,fixed_phrases,,"inventory_build,geopolitical_risk,demand_strength",-0.448567,4,3,7,0.002709,0.004242,True
+decline oil,bearish,demand_weakness,fixed_phrases,approved,demand_weakness,fixed_phrases,,"demand_weakness,geopolitical_risk,inventory_draw",-1.364857,2,5,7,0.001625,0.006363,True
+large crude build,bearish,inventory_build,fixed_phrases,approved,inventory_build,fixed_phrases,,inventory_build,-2.751152,0,7,7,0.000542,0.008484,True
+oil falls eia,bearish,inventory_build,fixed_phrases,approved,inventory_build,fixed_phrases,,inventory_build,-2.751152,0,7,7,0.000542,0.008484,True
+expected draw crude,bullish,inventory_draw,fixed_phrases,approved,inventory_draw,fixed_phrases,,"inventory_draw,opec_cut",1.2742,6,0,6,0.003792,0.00106,True
+small crude draw,bullish,inventory_draw,fixed_phrases,approved,inventory_draw,fixed_phrases,,inventory_draw,1.2742,6,0,6,0.003792,0.00106,True
+decline price oil,bullish,inventory_draw,fixed_phrases,approved,inventory_draw,fixed_phrases,,"inventory_draw,opec_cut,opec_output_increase",0.426902,5,1,6,0.00325,0.002121,True
+fed cut interest,bullish,inventory_draw,fixed_phrases,approved,inventory_draw,fixed_phrases,,"inventory_draw,macro_financial,inventory_build",0.426902,5,1,6,0.00325,0.002121,True
+sanctions oil,bullish,geopolitical_risk,fixed_phrases,approved,geopolitical_risk,fixed_phrases,,"geopolitical_risk,inventory_build,demand_strength",0.426902,5,1,6,0.00325,0.002121,True
+crude oil falls,bearish,inventory_draw,fixed_phrases,approved,inventory_draw,fixed_phrases,,"inventory_draw,inventory_build,macro_financial",-0.160885,4,2,6,0.002709,0.003181,True
+oil price war,bearish,geopolitical_risk,fixed_phrases,approved,geopolitical_risk,fixed_phrases,,"geopolitical_risk,demand_weakness,inventory_build",-0.160885,4,2,6,0.002709,0.003181,True
+surge oil prices,bearish,geopolitical_risk,fixed_phrases,approved,geopolitical_risk,fixed_phrases,,"geopolitical_risk,inventory_draw,inventory_build",-0.160885,4,2,6,0.002709,0.003181,True
+boost oil production,bearish,opec_output_increase,fixed_phrases,approved,opec_output_increase,fixed_phrases,,"opec_output_increase,supply_recovery,supply_disruption",-1.770322,1,5,6,0.001083,0.006363,True
+opec boosts,bearish,opec_output_increase,fixed_phrases,approved,opec_output_increase,fixed_phrases,,"opec_output_increase,geopolitical_risk",-1.770322,1,5,6,0.001083,0.006363,True
+hike rates,bearish,macro_financial,fixed_phrases,approved,macro_financial,fixed_phrases,,"macro_financial,demand_weakness,inventory_build",-2.61762,0,6,6,0.000542,0.007423,True
+oil production increase,bearish,opec_output_increase,fixed_phrases,approved,opec_output_increase,fixed_phrases,,"opec_output_increase,inventory_draw,demand_weakness",-2.61762,0,6,6,0.000542,0.007423,True
+opec boost,bearish,opec_output_increase,fixed_phrases,approved,opec_output_increase,fixed_phrases,,opec_output_increase,-2.61762,0,6,6,0.000542,0.007423,True
+raise oil production,bearish,opec_output_increase,fixed_phrases,approved,opec_output_increase,fixed_phrases,,"opec_output_increase,demand_weakness,inventory_draw",-2.61762,0,6,6,0.000542,0.007423,True

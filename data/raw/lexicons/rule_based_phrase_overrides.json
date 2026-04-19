@@ -1,0 +1,127 @@
+{
+  "approved_count": 89,
+  "generated_at": "2026-04-18T20:19:25.027325+00:00",
+  "topics": {
+    "demand_strength": {
+      "fixed_phrases": [
+        "oil demand growth",
+        "oil demand recovery",
+        "cuts oil demand"
+      ]
+    },
+    "demand_weakness": {
+      "fixed_phrases": [
+        "drop oil",
+        "decline oil"
+      ]
+    },
+    "geopolitical_risk": {
+      "fixed_phrases": [
+        "oil sanctions",
+        "sanctions russia",
+        "rise oil",
+        "russia sanctions",
+        "sanctions iran",
+        "russia ukraine conflict",
+        "sanctions russian oil",
+        "oil prices surge",
+        "attack saudi",
+        "russia ukraine war",
+        "surge oil",
+        "attack oil",
+        "sanctions against russia",
+        "russia war",
+        "sanctions oil",
+        "oil price war",
+        "surge oil prices"
+      ]
+    },
+    "inventory_build": {
+      "fixed_phrases": [
+        "oil prices rise",
+        "inflation rate",
+        "crude inventory build",
+        "annual inflation rate",
+        "oil falls",
+        "cut rates",
+        "fed cut",
+        "cut interest rates",
+        "rise oil prices",
+        "build crude",
+        "price inflation rate",
+        "oil prices drop",
+        "crude oil rises",
+        "inflation rate confirmed",
+        "fed cut rates",
+        "rise crude",
+        "increase crude",
+        "build crude inventories",
+        "inflation rate increased",
+        "large crude build",
+        "oil falls eia"
+      ]
+    },
+    "inventory_draw": {
+      "fixed_phrases": [
+        "crude inventory draw",
+        "oil rises",
+        "oil prices fall",
+        "draw crude",
+        "draw crude inventories",
+        "large crude draw",
+        "oil drops",
+        "barrels consensus draw",
+        "expected draw crude",
+        "small crude draw",
+        "decline price oil",
+        "fed cut interest",
+        "crude oil falls"
+      ]
+    },
+    "macro_financial": {
+      "fixed_phrases": [
+        "rate hikes",
+        "interest rate hikes",
+        "fed rate hikes",
+        "hike rates"
+      ]
+    },
+    "opec_cut": {
+      "fixed_phrases": [
+        "production cuts",
+        "output cuts",
+        "production cut",
+        "oil production cuts",
+        "oil output cuts",
+        "cuts oil",
+        "cut production",
+        "output cut",
+        "cut oil",
+        "opec cut",
+        "oil cuts",
+        "supply cuts",
+        "opec output cuts",
+        "saudi arabia cuts",
+        "cut oil production",
+        "opec production cuts",
+        "arabia cuts oil",
+        "cuts oil prices"
+      ]
+    },
+    "opec_output_increase": {
+      "fixed_phrases": [
+        "increase oil",
+        "boost oil",
+        "raise oil",
+        "boosts oil",
+        "raises oil",
+        "boost oil prices",
+        "boost oil production",
+        "opec boosts",
+        "oil production increase",
+        "opec boost",
+        "raise oil production"
+      ]
+    }
+  }
+}

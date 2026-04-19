@@ -1,0 +1,45 @@
+# Secrets
+.env
+.env.*
+*.key
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# macOS / IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Generated data and local checkpoints
+data/features/**
+!data/features/.gitkeep
+
+data/raw/benzinga/**
+!data/raw/benzinga/.gitkeep
+
+data/raw/oilprice/**
+!data/raw/oilprice/.gitkeep
+
+data/raw/oilprice_relevant_articles.csv
+data/raw/oilprice/backfill_checkpoint.json
+data/wti_prices.csv
+data/expanded_keywords.json
+
+# Generic binary artifacts
+*.pkl
+*.joblib
