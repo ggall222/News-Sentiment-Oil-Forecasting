@@ -28,6 +28,9 @@ notebooks/.ipynb_checkpoints/
 # Generated data and local checkpoints
 data/features/**
 !data/features/.gitkeep
+!data/features/finbert_feature_matrix.parquet
+!data/features/lm_feature_matrix.parquet
+!data/features/rule_based_topic_feature_matrix.parquet
 
 data/raw/benzinga/**
 !data/raw/benzinga/.gitkeep
