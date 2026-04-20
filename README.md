@@ -21,7 +21,7 @@ The repo is structured so that a fresh clone can be run from the project root on
 - `data/features/`: local generated feature matrices and comparison outputs
 - `notebooks/`: exploratory and comparison notebooks
 
-## Python Setup
+## Python Setup (STEP 1)
 
 Use Python `3.9+`.
 
@@ -31,7 +31,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-## Environment Variables
+## Environment Variables (OPTIONAL, IF YOU WANT TO USE API KEYS)
 
 Copy `.env.example` to `.env` in the project root and fill in your keys:
 
@@ -53,9 +53,15 @@ Used by:
 - `EIA_API_KEY`: WTI price download and EIA macro series download
 - `FRED_API_KEY`: FRED macro series download
 
-## How To Run
+## How To Run (STEP 2)
+To produce our model results, run
 
-Run all scripts from the repository root:
+```base
+python3 scripts/run_sentiment_pipeline_comparison.py --include-combined
+```
+
+
+To run all scripts from the repository root:
 
 ```bash
 python3 scripts/<script_name>.py
